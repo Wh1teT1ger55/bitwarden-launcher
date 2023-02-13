@@ -1,4 +1,7 @@
 # bitwarden-launcher
+
+CURRENTLY IN ALPHA! PLEASE REPORT BUGS!
+
 An extension that retrieves the LogIn page of the Bitwarden extension at browser startup.
 
 Download it for Opera
